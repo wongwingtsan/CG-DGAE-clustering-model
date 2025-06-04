@@ -64,6 +64,9 @@ See `requirements.txt` for a full list of dependencies.
 
 ## Citation
 
+If you find this code useful for your research, please cite our paper:
+
+```bibtex
 @article{CG-DGAE2024,
     title = {Cluster-guided denoising graph auto-encoder for enhanced traffic data imputation and fault detection},
     journal = {Expert Systems with Applications},
@@ -71,3 +74,4 @@ See `requirements.txt` for a full list of dependencies.
     year = {2024},
     doi = {https://doi.org/10.1016/j.eswa.2024.123584}
 }
+``` 
