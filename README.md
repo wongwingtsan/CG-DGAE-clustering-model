@@ -61,3 +61,13 @@ The clustering results are evaluated using various methods to ensure robust perf
 ## Requirements
 
 See `requirements.txt` for a full list of dependencies.
+
+## Citation
+
+@article{CG-DGAE2024,
+    title = {Cluster-guided denoising graph auto-encoder for enhanced traffic data imputation and fault detection},
+    journal = {Expert Systems with Applications},
+    authors = {Yongcan Huang, Hao Zhen, Jidong J. Yang}
+    year = {2024},
+    doi = {https://doi.org/10.1016/j.eswa.2024.123584}
+}
