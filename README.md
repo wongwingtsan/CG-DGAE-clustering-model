@@ -1,4 +1,4 @@
-# Graph Node Clustering Project
+# Dual-encoding attention graph auto-encoder (DA-GAE)
 
 This repository contains implementation of graph node clustering using various deep learning approaches, specifically focusing on Graph Attention Networks (GAT) and Deep Graph Convolutional Networks (DGCN). For the stage two, reconstruction, please see the repository [reconstruction model](https://github.com/wongwingtsan/CG-DGAE-reconstruction-model)
 
