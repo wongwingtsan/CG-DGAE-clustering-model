@@ -1,6 +1,6 @@
 # Graph Node Clustering Project
 
-This repository contains implementation of graph node clustering using various deep learning approaches, specifically focusing on Graph Attention Networks (GAT) and Deep Graph Convolutional Networks (DGCN).
+This repository contains implementation of graph node clustering using various deep learning approaches, specifically focusing on Graph Attention Networks (GAT) and Deep Graph Convolutional Networks (DGCN). For the stage two, reconstruction, please see the repository [reconstruction model](https://github.com/wongwingtsan/CG-DGAE-reconstruction-model)
 
 ## Project Overview
 
@@ -61,11 +61,3 @@ The clustering results are evaluated using various methods to ensure robust perf
 ## Requirements
 
 See `requirements.txt` for a full list of dependencies.
-
-## License
-
-[Add your chosen license]
-
-## Contributing
-
-[Add contribution guidelines if applicable] 
